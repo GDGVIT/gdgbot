@@ -6,7 +6,7 @@
   "description": "A bot for GDG VIT Vellore",
   "dependencies": {
     "cheerio": "^0.7.0",
-    "githubot": "0.4.x",
+    "githubot": "0.5.0",
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.6",
