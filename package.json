@@ -5,7 +5,7 @@
   "author": "Ashwini Purohit <ashwinipurohit@yahoo.in>",
   "description": "A bot for GDG VIT Vellore",
   "dependencies": {
-    "cheerio": "^0.7.0",
+    "cheerio": "^0.22.0",
     "githubot": "0.4.x",
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
